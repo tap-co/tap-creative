@@ -1,0 +1,26 @@
+{
+  "name": "@tap-co/tap-creative",
+  "version": "0.1.0",
+  "description": "Agent skill for generating ad creatives including display, audio, and video",
+  "private": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "SKILL.md"
+  ],
+  "keywords": [
+    "agent-skill",
+    "advertising",
+    "creative",
+    "generative-ai",
+    "tap"
+  ],
+  "author": "Tap.co",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tap-co/tap-creative"
+  },
+  "homepage": "https://docs.tap.co/skills"
+}
